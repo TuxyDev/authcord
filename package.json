@@ -1,0 +1,17 @@
+{
+  "name": "authcord",
+  "version": "1.0.0",
+  "description": "Authenticate & Get user's data through the discord Oauth2 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "keywords": [
+    "Oauth2",
+    "Discord",
+    "Discord.js",
+    "Authentication"
+  ],
+  "author": "TuxyDev",
+  "license": "Apache-2.0"
+}
